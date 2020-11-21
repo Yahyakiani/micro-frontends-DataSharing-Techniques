@@ -4,7 +4,7 @@ The idea behind Micro Frontends is to think about a  web app as a composition of
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 # Data Sharing
 
-This is a static Multi-page applications developed using React.js. They provide a concise overview of 3 techniques for data sharing between the Micro-Application architecture. Moreover, They also show how to perform routing between the micro-apps.
+These is a static Multi-page application developed using Micro-Frontend Architecture  React.js. They provide a concise overview of 3 techniques for data sharing between the Micro-Applications. Moreover, They also show how to perform routing between them.
 
 ## Featured
 
